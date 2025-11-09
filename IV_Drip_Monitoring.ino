@@ -1,14 +1,14 @@
-#define BLYNK_TEMPLATE_ID "TMPL3dCCB-N7g"
+#define BLYNK_TEMPLATE_ID "******"
 #define BLYNK_TEMPLATE_NAME "Heart n SpO2 Monitor"
-#define BLYNK_AUTH_TOKEN "h6jUsntBljL74M3PtAz38AgaJiIr8Uxq"
+#define BLYNK_AUTH_TOKEN "****"
 
 #include <HX711.h>
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
 
 // WiFi Credentials
-char ssid[] = "Airtel_Abheek";
-char pass[] = "9538869662";
+char ssid[] = "*****";
+char pass[] = "****";
 
 // Pins
 #define DT 21
